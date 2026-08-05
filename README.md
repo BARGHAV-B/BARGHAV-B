@@ -18,7 +18,7 @@ Building production-ready AI systems powered by LLMs, Machine Learning, and Mode
 
 ---
 
-## 🚀 About Me
+🚀 About Me
 
 - 🎓 Final Year ECE Student @ VIT Chennai
 - 🤖 Machine Learning & Generative AI
@@ -29,7 +29,7 @@ Building production-ready AI systems powered by LLMs, Machine Learning, and Mode
 
 ---
 
-## ⚡ Tech Stack
+⚡ Tech Stack
 
 <p align="center">
 
@@ -49,7 +49,7 @@ Building production-ready AI systems powered by LLMs, Machine Learning, and Mode
 
 
 
-## 🌐 Connect
+ 🌐 Connect
 
 <p align="center">
 
@@ -70,7 +70,7 @@ Building production-ready AI systems powered by LLMs, Machine Learning, and Mode
 <img src="https://komarev.com/ghpvc/?username=BARGHAV-B&style=for-the-badge&color=8B5CF6"/>
 
 </p>
-## 🐍 Contribution Snake
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/BARGHAV-B/BARGHAV-B/output/github-contribution-grid-snake-dark.svg">
