@@ -39,77 +39,15 @@ Building production-ready AI systems powered by LLMs, Machine Learning, and Mode
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BARGHAV-B&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BARGHAV-B&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
 
----
 
-## 🔥 GitHub Streak
 
-<p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=BARGHAV-B&theme=tokyonight&hide_border=true"/>
 
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BARGHAV-B&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/BARGHAV-B/BARGHAV-B/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=BARGHAV-B&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
-
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🤖 Enterprise Inventory Analytics Copilot
-
-LLM-powered analytics platform using Azure OpenAI.
-
----
-
-### ⚖️ Adaptive Legal Document Simplification
-
-Deep Learning + NLP + Attention Mechanism.
-
----
-
-### 💬 PEI Chatbot
-
-Enterprise chatbot built with Azure OpenAI.
-
----
 
 ## 🌐 Connect
 
@@ -119,7 +57,7 @@ Enterprise chatbot built with Azure OpenAI.
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="YOUR LINKEDIN">
+<a href="www.linkedin.com/in/barghav-balaji-ab747628a">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
