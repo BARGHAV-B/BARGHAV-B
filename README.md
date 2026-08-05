@@ -57,7 +57,7 @@ Building production-ready AI systems powered by LLMs, Machine Learning, and Mode
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="www.linkedin.com/in/barghav-balaji-ab747628a">
+<a href="https://www.linkedin.com/in/barghav-balaji-ab747628a">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
