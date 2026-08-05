@@ -25,7 +25,7 @@ Building production-ready AI systems powered by LLMs, Machine Learning, and Mode
 - 💬 Building Enterprise AI Applications
 - ☁️ Azure OpenAI • LangChain • Python
 - 🌐 React • Next.js • Java • Spring Boot
-- 📫 Reach me: **YOUR EMAIL**
+- 📫 Reach me: barghaved@gmail.com
 
 ---
 
