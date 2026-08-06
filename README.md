@@ -39,7 +39,7 @@ Building production-ready AI systems powered by LLMs, Machine Learning, and Mode
 
 ---
 
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-blue?style=for-the-badge&logo=vercel)](https://barghaved.vercel.app)
 
 
 
@@ -70,4 +70,5 @@ Building production-ready AI systems powered by LLMs, Machine Learning, and Mode
 <img src="https://komarev.com/ghpvc/?username=BARGHAV-B&style=for-the-badge&color=8B5CF6"/>
 
 </p>
+
 
